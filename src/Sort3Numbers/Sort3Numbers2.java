@@ -8,7 +8,7 @@ package Sort3Numbers;
  *
  */
 public class Sort3Numbers2 {
-	static int a = 26;
+	static int a = 27;
 	static int b = 7;
 	static int c = -3;
 	

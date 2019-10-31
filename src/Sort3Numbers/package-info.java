@@ -1,3 +1,4 @@
+package Sort3Numbers;
 /**
  * 
  */
@@ -5,4 +6,3 @@
  * @author mirek
  *
  */
-package Sort3Numbers;

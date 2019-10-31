@@ -1,3 +1,0 @@
-module learnJava_001 {
-	
-}
