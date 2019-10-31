@@ -10,7 +10,7 @@ package Sort3Numbers;
 public class Sort3Numbers2 {
 	static int a = 27;
 	static int b = 7;
-	static int c = -3;
+	static int c = 133;
 	
 	static int ax, bx, cx;
 
