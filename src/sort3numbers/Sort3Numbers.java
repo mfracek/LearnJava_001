@@ -1,13 +1,13 @@
 /**
  * 
  */
-package Sort3Numbers;
+package sort3numbers;
 
 /**
  * @author mirek F
  *
  */
-public class Sort3Numbers2 {
+public class Sort3Numbers {
 	static int a = 27;
 	static int b = 7;
 	static int c = 133;
@@ -47,7 +47,7 @@ public class Sort3Numbers2 {
 		ax = getLower(a, getLower(b ,c));
 		cx = getGreater(a, getGreater(b ,c));
 		bx = a+b+c-ax-cx;
-		System.out.print("To jest:" + ax + " " + bx + " " + cx );
+		System.out.println("To jest:" + ax + " " + bx + " " + cx + "\n" );
 
 	}
 

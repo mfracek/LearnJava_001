@@ -1,4 +1,4 @@
-package Sort3Numbers;
+package sort3numbers;
 /**
  * 
  */
